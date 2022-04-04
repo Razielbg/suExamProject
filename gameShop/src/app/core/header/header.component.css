@@ -1,0 +1,14 @@
+ul li {
+    display: inline-block;
+    padding-left: 25px;
+}
+
+div.nav-link {
+    background-color: aquamarine;
+}
+
+.heading {
+    text-align: left;
+    background-color: aqua;
+    margin: 0;
+}
